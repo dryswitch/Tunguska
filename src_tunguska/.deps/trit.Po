@@ -1,0 +1,29 @@
+trit.o: trit.cc trit.h tryte.h /usr/local/lib/gcc12/include/c++/stdlib.h \
+ /usr/local/lib/gcc12/include/c++/cstdlib \
+ /usr/local/lib/gcc12/include/c++/x86_64-portbld-freebsd14.0/bits/c++config.h \
+ /usr/local/lib/gcc12/include/c++/x86_64-portbld-freebsd14.0/bits/os_defines.h \
+ /usr/local/lib/gcc12/include/c++/x86_64-portbld-freebsd14.0/bits/cpu_defines.h \
+ /usr/local/lib/gcc12/include/c++/pstl/pstl_config.h \
+ /usr/include/stdlib.h /usr/include/sys/cdefs.h /usr/include/sys/_null.h \
+ /usr/include/sys/_types.h /usr/include/machine/_types.h \
+ /usr/include/x86/_types.h /usr/include/machine/_limits.h \
+ /usr/include/x86/_limits.h \
+ /usr/local/lib/gcc12/include/c++/bits/std_abs.h /usr/include/stdio.h
+trit.h:
+tryte.h:
+/usr/local/lib/gcc12/include/c++/stdlib.h:
+/usr/local/lib/gcc12/include/c++/cstdlib:
+/usr/local/lib/gcc12/include/c++/x86_64-portbld-freebsd14.0/bits/c++config.h:
+/usr/local/lib/gcc12/include/c++/x86_64-portbld-freebsd14.0/bits/os_defines.h:
+/usr/local/lib/gcc12/include/c++/x86_64-portbld-freebsd14.0/bits/cpu_defines.h:
+/usr/local/lib/gcc12/include/c++/pstl/pstl_config.h:
+/usr/include/stdlib.h:
+/usr/include/sys/cdefs.h:
+/usr/include/sys/_null.h:
+/usr/include/sys/_types.h:
+/usr/include/machine/_types.h:
+/usr/include/x86/_types.h:
+/usr/include/machine/_limits.h:
+/usr/include/x86/_limits.h:
+/usr/local/lib/gcc12/include/c++/bits/std_abs.h:
+/usr/include/stdio.h:
